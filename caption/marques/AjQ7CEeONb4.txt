@@ -1,0 +1,449 @@
+- Hi. Marques.
+- Hey, I'm Ryan.
+  Nice to meet you. - Good to meet you, Ryan.
+- Thank you. Good to see you.
+So in this box is a milestone piece of tech. I just want to have you open it
+and give me your thoughts. - Ooh.
+- ( laughs ) - I love these.
+- It's so cool-looking. This is definitely
+older than me. I've never actually
+seen one of these. You want to give it a spin? This is functioning?  ( synth rock playing ) That's extremely cool.  I'm Marques Brownlee
+ and I review dope new tech.  But on this show,
+ I'm rewinding the clock  to discover
+ the tech of the past  that changed
+ our lives forever.  This is
+ "Retro Tech: Walkman." Hey, what's up, guys?
+MKBHD here. So, spoiler alert,
+I've never used a Walkman. I'm very unfamiliar with it. and this will be literally my first time ever seeing it. The first ever
+portable music player, Sony introduced
+the TPS-L2 Walkman in 1979 and changed
+the music game forever. I wasn't alive back then. In fact,
+half of people alive now were not alive when
+the Walkman was introduced. Also, this pink text
+is not an accident. It's everywhere. So let's go ahead
+and get one out the box. Paperwork-- this has never
+gone out of style. Whoa.
+These are the headphones. Flimsy. Very lightweight. That just leaves
+the Walkman itself. In a leather case-- this is like
+a little pocketbook. Oh, my gosh. It's pretty chunky. AA batteries. Tactile buttons. So that's your fast-forward,
+your rewind. Play/pause. Stop. Immensely satisfying.
+You don't get that today. So there's only
+one more thing to do, and that is
+listen to some music. Beastie Boys. Oh, I have to struggle
+with everything, don't I? Nope. I just want to play my tape. Ah. This little bracket down here? Go ahead and slide it in
+on that bracket.  ( music playing ) Whew. Wow. These actually
+don't sound bad.  ( music continues )  This year is the 40th
+ anniversary of the Walkman,  and I want to know
+ how this piece of tech  jumpstarted portable music
+ as we know it today.  ( music stops ) - Hey. Marques.
+- Hey, Marques. Americus. - Good to meet you.
+- Nice to meet you, too. - Wow.
+- All right. So to start off,
+I'm going to have you
+check under your seat. - Like, right now?
+- Go ahead. - Oh, no.
+- Aah! This is pretty cool. Wow. This brings back memories. This guy! I have not seen
+one of these things in I don't even know
+how long. Fits perfect, yeah. Wow. This is pretty dope, man. Can you take me
+back to the '70s and what the world
+of the audio was like before the Walkman existed? Yeah,
+the world of audio was fun because there was
+a sort of preference for stuff getting bigger. You know,
+you wanted music to be loud, you wanted it to be booming.  ( music playing )  ♪ Everybody ♪ Seth:
+Before Walkmen, music was innately social, blaring into
+the communal airwaves. People carried
+around boom boxes. Boom boxes were the thing. The bigger it was,
+the cooler you were. Man on TV:
+The radio that's about as big as the Empire State Building and as loud as World War II. They were big, and they were
+cumbersome to carry around. It definitely
+was not the type of device that would fit in your pocket,
+or even in a backpack. So the heads of Sony
+had an idea, and the idea was let's see if we can make things
+a bit more mobile, so suddenly smaller
+becomes better. Lisa:
+Portable cassette players definitely existed
+before the Walkman, but they were very different. Some of them
+were the size of VCRs and they had these big
+chunky buttons. But they weren't
+for listening to music. They were for journalists
+and secretaries. So the heads of Sony
+had an idea. Can you walk me through
+the origin story of the Walkman? Seth:
+So the founder of Sony was a huge audiophile. He loved opera music. And he's taking
+this old cassette player that's designed
+for recording notes
+as a journalist might and using that on the road
+to listen to his opera music.  ( opera music playing ) And he finds
+this thing clunky. It's totally impractical. There has to be a better way. Lisa:
+Masaru Ibuka tasked his team to come up with a solution. Seth: So they start
+stripping away components. They start stripping
+away parts. All the gears and gadgetry
+and equipment necessary to record
+onto a tape? They get rid of that. And what they're left with
+is a small, sleek, portable device that does basically one thing, but does that one thing
+really well. It lets you listen to music. Lisa: And in 1979,
+the Walkman was born.  ( opera music ends ) Marques:
+I wanted to learn even more about the origin
+of the Walkman, so I got in touch
+with Toshio Asai, who was an engineer on
+the original development team for the Walkman
+at Sony in Tokyo. ( speaking Japanese ) ( speaking Japanese ) Marques:
+The engineers at Sony
+did such a good job building the Walkman
+that consumers would keep them even if they broke. Nowadays, if our tech breaks,
+we bring it in to be fixed. But back then, everyone was
+apparently pretty handy. So I've invited
+my friend Judner, AKA "UrAvgConsumer,"
+to help me out. Between the two of us,
+we have more than enough knowhow to get into this tech. - Thanks for joining me today.
+- Thanks for having me, man. We're both YouTube creators.
+We're both tech heads. We're both born after
+the Walkman came out. - This is heavy.
+- Yeah. So, what do you know
+about the Walkman? - I know they use tapes.
+- Mm-hmm. But outside of that?
+Not too much. Okay. So, we review
+a lot of tech. When's the last time
+you actually had to go in and replace or fix something? I don't think I ever have. I can't think of any time I have actually
+had to personally do it. So, one of the most common
+problems with these Walkmen, the bands inside
+that turn the tapes
+and make them move...  ( music playing ) ...would sometimes
+stretch or break.  ( music stops ) So, with the right
+instructions, can these Walkmen be fixed
+by your average consumer? - Sounds good.
+- I guess we'll figure
+  that out pretty soon. All right,
+let's jump right in. Step one, remove
+the first set of screws
+from the side panel. - That's simple enough.
+- Keep these screws safe. All right,
+I've got doors coming off, Oh! Look at the guts
+of that thing. If I had to defuse a bomb
+and it looked like this? We're all gonna die. There are 20 gears in here
+and a motor. That's something
+you don't see in today's tech. - Oh, there we go.
+- That's your band. This is completely snapped. As far as my appreciation
+for old tech right now? I'm not sure
+if this is making me appreciate it more or less. I think I'd appreciate the person
+who could do this for me. True. This brings me
+back to high school. There's the second screw. Whew. There goes
+the whole plate. I'm going to get it, though. Oh! There we go. So this is that big band.
+It's a little stretched out. ( light clatter ) That sounded like a screw. Oh, no. Anyone have a giant magnet?
+I think I'm going to have to finish this
+without that one screw, but I'm going to commandeer
+some of this extra tape - so that the bracket stays.
+- Oh, okay, MacGyver. - You know who MacGyver is?
+- Yep. - Do you really?
+- Nope. Uh-huh. So, replace the big band
+with this new big band. This has got to go
+right over the top here. Boom! First band done. Your board is
+all over the place. Yeah, this is--
+it's like I'm dissecting
+a frog here. - Oh, man.
+- I did not follow
+  instructions. - Whoa.
+- ( light clatter ) No! Was that a screw
+you just dropped? This is a lot more steps
+than I was imagining. Control panel back. All right,
+I finally reached the point where I can test to see
+if I've installed
+the bands correctly and if that one screw
+was optional. We'll see.
+It's not completely
+put back together, but if this works, it says a lot about
+my progress so far,
+I'm just saying. Let me jump in on this
+to verify. Okay, please work.
+Please work. - Play.
+- ( high-pitched whine ) ( whine continues ) As you can see and hear, something about my band
+isn't quite right. Something's--
+my tape it bro-- Oh, no. Oh, it's jammed. It is completely
+jammed up in there. You definitely
+destroyed that tape. Whoa. Aww, that is
+a heartbreaker. ( sighs )
+I feel stumped. Dang. All right,
+let's talk about what
+we learned here today. So, this is hard. - This is difficult.
+- Very. I guess I just gained
+a lot of respect for people who actually
+successfully pulled that off. Trying to figure this out
+with no knowledge prior? It's impossible. I'm okay
+being born in this era. Thank you, digital tech. Marques:
+As much appreciation
+as I now have for the Walkman
+after trying to fix one, not everyone
+appreciated the Walkman when it first came out. Seth: People were up in arms
+over the Walkman. They just simply
+thought it was unsafe. They thought if people
+weren't paying attention, they would get hit by cars. There was a lot of backlash. This one of the first times
+that we saw technology allow you to close off
+the world. Man on TV:
+Is it the Me Generation
+gone wild? A height of anti-social
+behavior? There were all sorts
+of anti-Walkman rules kind of popping up everywhere. The most prominent was in
+Woodbridge, New Jersey, 1982. The town passes a law
+that basically bans you from listening to Walkmen
+while you're crossing streets and doing a bunch
+of other things. We are trying
+to stop a tragedy before it happens
+in Woodbridge. To this day, this Walkman ban
+still stands in New Jersey. Having a Walkman
+wasn't immediately cool. This was a novel device. People would be staring at you
+if you wore it. So what Sony wanted to do was to try
+to turn those stares from bad stares
+to good stares. So the ad campaigns,
+the marketing campaign, it was all about featuring fun, hip, attractive-looking people
+using Walkmen in public so that people would think it
+was an acceptable thing to do. Announcer:
+The tiny stereo cassette player
+with truly incredible sound. Lisa: Sony's early ads showed people dancing
+out in the streets, and the tagline said, "There's a revolution
+in the streets." Because it was
+so new to people. People weren't
+used to the idea of bringing
+their music around. They probably
+didn't even realize that they wanted to bring their music around
+before the Walkman. It's like carrying
+your stereo with you,
+you know? On your-- on your head. Sony's idea was we're going to
+put them in the hands of some of the top people
+in the industry. Lisa:
+You saw really prominent famous people wearing it. It was very similar to what
+a lot of companies do today, except now it's called
+influence marketing, and it's mostly done
+on Instagram. And this worked.
+Eventually, the Walkman became something
+you wanted to show off. But one of the big problems with any piece
+of portable gear is that you're not social. You're kind of isolated
+from the world around you. So, what Sony did is they put his and hers
+headphone jacks on it so that two people
+could listen at once. So, suddenly,
+this solo activity could be a couples' activity. You could listen
+to a song with your friend and share it with them. The Walkman also a had
+a hot line button that when you press it, allowed you to speak to someone
+else through the device and it lowered the music
+a little bit, too. I left my Walkman
+headphones at home, but I do have this pair
+of 2018 headphones. We can do some hot line.
+Let's go ahead and hit play. - Okay.
+- ( music playing ) My ears. Oh, the mic's up here.
+Can you hear me? - Yeah! Yeah.
+- Did it work? - This is weird.
+- It lowered my volume
+  and yours. That's kind of brilliant. ♪ What's love got to do ♪ ♪ Got to do ♪ - It doesn't totally mute it.
+- Yeah. - It just lowers it.
+- It lowers it. When headphones are new,
+when Walkmen are new. people tend to talk
+at a higher volume - when you have headphones on.
+- Definitely. Before the Walkman,
+stereo was, like, it was cool,
+but it wasn't this headphone, immersive experience. - Right.
+- That's what the Walkman did. That's amazing. Lisa: Although the Walkman
+gets a lot of the credit, the headphones
+that Sony designed really played into
+the Walkman's success. Before the Walkman came out,
+headphones were big and they weren't really designed
+to be carried around with you. The Sony Walkman
+really changed that. With the small headphones
+that the Walkman came with, they reduced
+the weight by tenfold, making it much easier
+to carry around
+with you and wear. Alex: So, the Walkman
+didn't only revolutionize
+portable audio, it revolutionized
+the headphone market. Marques:
+I love quality audio and I take my headphones
+with me everywhere, so I want to experience
+how headphone technology has evolved over the years. Before the Walkman,
+headphones were big and clunky. So, Sony solved this problem
+by making lightweight, breathable headphones that ushered in the age
+of personal headphones
+since then. So, we have some of the best
+and worst of those with us, and we're going to
+give them a spin. You can't hear exactly
+what I'm hearing since they're headphones, but we'll give you
+the same effect. So this is Dope Or Nope. Let's get right into it. We're going to take it back
+to before the Walkman-- the 1971 Professional
+Electrostatic Model Float. These are huge. I don't know what
+this hole is for. Like, a ponytail hole?
+Who knows? These are the only ones
+we could find from pre-Walkman days. Wow. They don't even
+stay over my-- Um, strong nope. Big clunky headphones. Moving up to the early 2000s, and it's a neckband style. Right behind my neck
+like that. Let's listen.  ( music playing ) These are actually
+a little bit more bass heavy.  ( music playing ) You can now be that guy
+walking down the street. But the lack of adjustability
+kind of kills it, so, nope. Headphones in general
+have branched out in a bunch of
+different purposes. Welcome to 1985. We have Sony's AM/FM
+radio headphones. Big antenna. I have at one point in my life seen someone wearing these, and it was a neighbor
+mowing his lawn. So, a new era of portability, and dare I say,
+truly wireless? Dope. We have on-ear headphones as a sort of expression
+of personal style.  ( music playing ) Oh, they sound horrible. Pretty sure this button
+is going to light some stuff up. There it is. There could be a unicorn fan that really wants
+headphones like this, and for that person
+these are probably dope. But for me,
+the foam is not very soft. The sound,
+as I mentioned, trash. Despite the glory
+of the unicorn horn, nope. The way we hear our music was forever changed
+by the Walkman headphones, but how did that impact
+the physical medium that contained
+the music itself?  ♪ Keep on rock,
+ keep, keep on rock ♪ Lisa:
+When the Walkman took off, the cassette tape
+also took off. And three years after
+the Walkman was released
+in the United States, cassette tapes sales outsold
+vinyls for the first time. Alex: The introduction
+of the blank cassette tape kind of changed everything,
+whether you were just grabbing music from your
+personal collection or you were stealing it
+from the radio. This was a way for you to create your own
+music playlist. For the first time,
+this gave people real control over what they were
+listening to. It wasn't just dictated by
+whatever was sold in stores. The mixtape was a really big
+part of growing up. It was a big part
+of high school culture. Americus:
+There was no such thing as sending your
+Spotify list to your pals. You literally were, like,
+trading off cassettes. "Hey, I made this
+cool mixtape." "Hey, let me give you mine." If you had a crush,
+you gave them a mixtape. And that was everything
+you needed to say but were too scared to say. But the area where the Walkman had the biggest impact
+was on exercise. Seth: Running, jogging,
+aerobics, Jazzercise, all these things blowing up at the same time
+as the Walkman. It's like this
+perfect marriage. Lisa: Sony clearly noticed
+that people were using the Walkman for exercise,
+so they launched a sport model in the 1980s. Americus:
+That was actually kind of
+genius to be able to say this is something that is
+a natural product market fit, so let's make something specific
+called the Sports Walkman to be able to tap into that. Marques:
+The Sony Sports Walkman
+was a must-have, due to the rugged design
+and durability, but how does it hold up in today's portable
+music standards? To find out, I'm going to
+have to run a stress test and see how it functions. As some of you may know,
+in addition to being
+a tech reviewer, I'm also a professional
+ultimate frisbee player. So I do listen to music while
+working out all the time. This seemed like
+a perfect opportunity to test the durability
+of a Sports Walkman. To do that,
+I brought some friends-- the Gregory Brothers. Welcome. ♪ I'm a fun, I'm a fun,
+I'm a fun guy ♪  The Gregory Brothers
+ took the internet by storm  with their songified versions  of the news and viral videos.  They're savvy musicians,  and they know how
+ to throw a frisbee. ♪ Don't believe me,
+just watch ♪ Thanks for being here.
+You guys have also played
+a little ultimate. - Yeah.
+- It's true. Not quite
+  at your level. What's been your guys'
+experience with the Walkman? I had the original Walkman. The Walkman, for me,
+it conjures so many memories. That was my first
+experience with headphones. What do you think
+of this bright yellow? I like it.
+If I'm holding it
+and exercising, a car will not run over me. So, ideally we can test
+wearability, playability, durability. Do they play without skipping or start to break
+or pieces fall off? You're in luck, because
+we have written you a song. We tried to write
+a pump up track and just dubbed it
+onto a cassette, - and it's called
+  "I'm On Fire."
+- All right. Marques:
+ We've recorded the audio
+ so you guys can hear  what I'm hearing
+ through my headphones. Here we go.
+I'm getting really
+pumped by this song.  ( upbeat dance music
+ playing )  ♪ I'm on fire ♪  ♪ I'm on fire ♪ - ♪ I'm on fire ♪ 
+- This is really heavy. I used to think working out
+with an iPod touch on your arm
+was huge and clunky. This one has a built-in clip. We're going to have to get you
+some more air time, I think, if we want to jostle
+this thing enough. - Yeah.
+- ♪ You see, I'm actually ♪  ♪ Currently,
+ engulfed in flames ♪ - ♪ I'm on fire ♪ 
+- ( thud )  ( music speeds up )
+ ♪ Fi-i-i-ire ♪  ♪ I'm on fire ♪ - ( thud )
+- ( music slurring ) The cassette would, like,
+speed up a little for a second.  High notes would get
+ extra high as I land.  ( music slurring )
+ ♪ I'm on fire-er-er ♪  ♪ I'm on fire ♪  ♪ What I gotta do
+ to get some water? ♪  ( music slurring )
+ ♪ I'm on-- ♪ - I lost my battery.
+- Oh, it fell out? - The tape stayed in.
+- Yeah. That's really impressive. Sorry for the hold up. Music's playing already. - All right, let's go.
+- ♪ I'm on fire ♪ ( shouts ) - Ooh, it was in.
+- We're gonna call it. - ♪ I'm on fire ♪ 
+- Good catch. The clamp force here
+came undone too easily. Other than that,
+it did pretty well. I feel like we proved the original use case
+for the Sport Walkman. Running, jogging--
+obviously performed great. Yeah, got to give
+props to certain aspects
+of the Walkman for holding up
+better than I thought. Thank you, guys,
+for helping me - test out the Walkman.
+- Thanks for having us. The Gregory Brothers. So the Sports Walkman
+actually held up pretty well, but it was just one example of Sony's effort to appeal
+to people's unique interests. Lisa: They launched
+different colors. They eventually launched a model
+that also had AM and FM. Americus:
+By giving consumers enough
+variation in the product SKUs, that allowed them to say,
+"I still feel like this product is personal to me even though everyone has one." Marques:
+Through the mid-1980s and into the early '90s, the Walkman had firmly
+established itself as a cultural icon,
+often taking on starring roles in classic movies of the era. ♪ Leave it all up to me ♪ Marques: But by the time
+Sony celebrated the Walkman's
+tenth anniversary, a new frontier of technology
+was on the horizon. Lisa:
+Technology always evolves, and the way we listen to music and get music always changes. Alex:
+Once we got towards
+the middle of the '90s, the medium of a compact disc
+was able to hold more. The sound was a lot more hi-fi. Lisa:
+As CD players rose
+in popularity, you kind of saw the appeal
+of the Walkman start to fade. And what really marked
+the end of the Walkman was, of course, the iPod in 2001. Now you can have
+your entire music library
+in your pocket, not just one or two cassettes
+of your choosing. So, it was really
+digital music that put the nail
+in the coffin for the Walkman. Can you just give me
+the legacy of the Walkman? Americus:
+It's the first time
+that you saw music really stepping outside
+of the background and into the forefront
+as a very central means of self-expression
+for consumers. The Walkman kind of
+created this notion that technology can be
+with you all the time. Today, we don't leave
+the house without our phones. We spend hundreds of dollars
+on specialized headphones because we love them and want to
+wear them all the time. The Walkman was so critical
+in all of that. The Walkman is still seen
+in pop culture today. I mean, think about
+"Guardians Of The Galaxy," which was a hugely popular movie
+in the Marvel franchise. So, it definitely got
+a little bit of a revival. Seth:
+If you're listening
+to a Walkman, or nowadays an iPhone, while you're
+going about your day, it changes your relationship
+with the world. It makes it much easier
+to get through the day, whether you're working a job
+or working out. The Walkman allowed us
+for the first time to be transported away. It changed everything about how music fits into our lives. Marques:
+I've learned a lot from my time
+with the original Walkman. The biggest takeaway for me is just how much
+this thing paved the way for portable audio
+as we know it today. From the gears inside,
+to the bands, to the buttons-- those amazing clicky buttons, they don't make 'em
+like they used to. So, thanks to
+the Walkman, and thank you for watching. Catch you guys
+in the next one. Peace. 
